@@ -29,9 +29,12 @@ flutter run
 
 [X] Chrome - develop for the web (Cannot find Chrome executable at .\Google\Chrome\Application\chrome.exe)
     ! Cannot find Chrome. Try setting CHROME_EXECUTABLE to a Chrome executable.
+
 [!] Visual Studio - develop Windows apps (Visual Studio Build Tools 2019 16.11.47)
     X The current Visual Studio installation is incomplete.
       Please use Visual Studio Installer to complete the installation or reinstall Visual Studio.
+	Not downloading properly
+
 [!] Android Studio (not installed)
 
 ! Doctor found issues in 4 categories.
